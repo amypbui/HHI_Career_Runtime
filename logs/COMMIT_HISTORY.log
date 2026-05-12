@@ -1,0 +1,60 @@
+* commit c71a1d6343522166b7377001db56d0a4040681d9 (HEAD -> main, origin/main)
+| Author: amypbui <bamy41949@gmail.com>
+| Date:   Tue May 12 13:49:40 2026 -0500
+| 
+|     Add resume v1, weekly tracker, and interview preparation infrastructure
+| 
+|  INTERVIEW_PREP.md | 12 ++++++++++++
+|  RESUME_V1.md      | 27 +++++++++++++++++++++++++++
+|  WEEKLY_TRACKER.md |  4 ++++
+|  3 files changed, 43 insertions(+)
+| 
+* commit 466066110c7bf12d925e1aa96b26ff8d8d78348b
+| Author: amypbui <bamy41949@gmail.com>
+| Date:   Tue May 12 13:49:00 2026 -0500
+| 
+|     Add 30 day execution plan and LinkedIn positioning draft
+| 
+|  EXECUTION_PLAN_30_DAYS.md | 29 +++++++++++++++++++++++++++++
+|  LINKEDIN_ABOUT.md         |  7 +++++++
+|  2 files changed, 36 insertions(+)
+| 
+* commit f8d805122eda6606882970c4d5c6e4099f9f8042
+| Author: amypbui <bamy41949@gmail.com>
+| Date:   Tue May 12 13:48:16 2026 -0500
+| 
+|     Add resume draft, case studies, certification tracker, and application tracking infrastructure
+| 
+|  RESUME_DRAFT.md                         | 13 +++++++++++++
+|  applications/APPLICATION_TRACKER.md     |  4 ++++
+|  case_studies/FLAGSHIP_CASE_STUDIES.md   | 10 ++++++++++
+|  certifications/CERTIFICATION_TRACKER.md |  7 +++++++
+|  4 files changed, 34 insertions(+)
+| 
+* commit e5475b37898c745d752b9c618749d10e4634e15d
+| Author: amypbui <bamy41949@gmail.com>
+| Date:   Tue May 12 13:46:57 2026 -0500
+| 
+|     Add professional positioning profile
+| 
+|  PROFESSIONAL_POSITIONING.md | 22 ++++++++++++++++++++++
+|  1 file changed, 22 insertions(+)
+| 
+* commit ce22a28795bbd5cf40b04a19cae089ca87c0c6c2
+| Author: amypbui <bamy41949@gmail.com>
+| Date:   Tue May 12 13:46:34 2026 -0500
+| 
+|     Add certification and professional translation roadmap
+| 
+|  CERTIFICATION_AND_TRANSLATION_PLAN.md | 14 ++++++++++++++
+|  README.md                             | 21 +--------------------
+|  2 files changed, 15 insertions(+), 20 deletions(-)
+| 
+* commit aec985341ce97e1524bc628f5a21dcb6d7e905da
+  Author: amypbui <bamy41949@gmail.com>
+  Date:   Tue May 12 13:45:29 2026 -0500
+  
+      Initialize career transition runtime infrastructure
+  
+   README.md | 22 ++++++++++++++++++++++
+   1 file changed, 22 insertions(+)
