@@ -21,7 +21,7 @@ Systems-oriented researcher focused on AI governance operations, runtime oversig
 - HHI_Runtime_Proof
 
 ## Public References
-GitHub: https://github.com/hhidatasettechs-oss
+GitHub: https://github.com/Hollow-house-institute
 LinkedIn: https://www.linkedin.com/in/hollow-house-institute-3ab5a2182
 DOI: https://doi.org/10.5281/zenodo.20044740
 ORCID: https://orcid.org/0009-0009-4806-1949

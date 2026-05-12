@@ -14,9 +14,9 @@ Independent AI Governance & Systems Operations Researcher
 - GitHub Workflow Management
 
 ## Flagship Repositories
-- https://github.com/hhidatasettechs-oss/Hollow_House_Standards_Library
-- https://github.com/hhidatasettechs-oss/HHI_GOV_01
-- https://github.com/hhidatasettechs-oss/HHI_Runtime_Proof
+- https://github.com/Hollow-house-institute/Hollow_House_Standards_Library
+- https://github.com/Hollow-house-institute/HHI_GOV_01
+- https://github.com/Hollow-house-institute/HHI_Runtime_Proof
 
 ## Value Proposition
 Focused on operational governance, runtime oversight, longitudinal accountability, and behavioral risk visibility for AI-enabled systems.
